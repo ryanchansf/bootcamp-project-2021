@@ -52,6 +52,7 @@ a:hover {
     flex-direction: row;
     padding: 20px;
     justify-content: space-around;
+    flex-wrap: wrap;
 }
 
 .recipesFormat {
